@@ -50,23 +50,23 @@ public:
     	{
     		cout<<"Indeks nilai: A";
     		cout<<endl;
-		}else if(rata<=80)
+		}else if(rata>70)
     	{
     		cout<<"Indeks nilai: AB";
     		cout<<endl;
-		}else if(rata<=70)
+		}else if(rata>65)
     	{
     		cout<<"Indeks nilai: B";
     		cout<<endl;
-		}else if(rata<=65)
+		}else if(rata>60)
     	{
     		cout<<"Indeks nilai: BC";
     		cout<<endl;
-		}else if(rata<=60)
+		}else if(rata>50)
     	{
     		cout<<"Indeks nilai: C";
     		cout<<endl;
-		}else if(rata<=50)
+		}else if(rata>40)
     	{
     		cout<<"Indeks nilai: D";
     		cout<<endl;
